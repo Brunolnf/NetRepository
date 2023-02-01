@@ -14,5 +14,6 @@ public class EjemploNet2023 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Hola que tal? Me llamo Bruno!");
+        System.out.println("Hola que tal? Me llamo Michael!");
     }
 }
